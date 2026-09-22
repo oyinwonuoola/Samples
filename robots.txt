@@ -1,0 +1,5 @@
+# Allow all crawlers: Google, Bing, and AI crawlers (GPTBot, ClaudeBot, etc.)
+User-agent: *
+Allow: /
+
+Sitemap: https://oyinwonuoola.github.io/Samples/sitemap.xml
